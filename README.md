@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhanush N
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Full Stack Java Development.
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on INFOSYS AND IBM
 - 📫 How to reach me mrcoyote2075@gmail.com
