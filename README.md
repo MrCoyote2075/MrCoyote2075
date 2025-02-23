@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhanush N
 - 👀 I’m interested in Full Stack Java Development.
 - 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on INFOSYS AND IBM
+- 💞️ I’m looking to collaborate on INFOSYS, ZOHO, WIPRO, IBM, 
 - 📫 How to reach me mrcoyote2075@gmail.com
 
 <!---
